@@ -9,3 +9,6 @@ Cross-validation, pipelines (simple imputer, random forest regressor), visualiza
 
 ### xgboost.ipynb
 Gradient boosting (xgbregressor), categorical values (one-hot encoder)
+
+### dropout-and-batch-normalization.ipynb
+Deep learning, layers (dense, dropout, batch normalization), activation functions (relu) optimizer (adam, sgd), loss functions (mae)
